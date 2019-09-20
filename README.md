@@ -1,6 +1,8 @@
 # README
 haolingZHANG
 
+<a href="https://codeclimate.com/github/haolingzhang1/projet1/maintainability"><img src="https://api.codeclimate.com/v1/badges/a3fe4ed48bd8245b11c0/maintainability" /></a>
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
